@@ -1,0 +1,111 @@
+---
+object: card
+id: 24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c
+oracle_id: 8ba0e831-054a-4e01-92ed-2845bd2fa12f
+multiverse_ids: []
+tcgplayer_id: 38031
+cardmarket_id: 18261
+name: Skirk Marauder
+lang: en
+released_at: '2003-01-01'
+uri: https://api.scryfall.com/cards/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c
+scryfall_uri: https://scryfall.com/card/pal03/6/skirk-marauder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.jpg?1561756794
+  normal: https://cards.scryfall.io/normal/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.jpg?1561756794
+  large: https://cards.scryfall.io/large/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.jpg?1561756794
+  png: https://cards.scryfall.io/png/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.png?1561756794
+  art_crop: https://cards.scryfall.io/art_crop/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.jpg?1561756794
+  border_crop: https://cards.scryfall.io/border_crop/front/2/4/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c.jpg?1561756794
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Goblin
+oracle_text: |-
+  Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+  When Skirk Marauder is turned face up, it deals 2 damage to any target.
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Morph
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: bf8bc347-ae11-43d4-98da-3625566668dd
+set: pal03
+set_name: Arena League 2003
+set_type: promo
+set_uri: https://api.scryfall.com/sets/bf8bc347-ae11-43d4-98da-3625566668dd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apal03&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pal03?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/24d9c8ea-bdb5-4d9a-9d1e-218540c4ad2c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ba0e831-054a-4e01-92ed-2845bd2fa12f&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: e310bcbd-fb2b-4fe4-9c08-270b2b459696
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- arenaleague
+edhrec_rank: 22863
+penny_rank: 14725
+prices:
+  usd: 
+  usd_foil: '0.98'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skirk+Marauder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skirk+Marauder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skirk+Marauder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38031?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skirk+Marauder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skirk+Marauder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
